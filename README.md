@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pxczMyMTF2Mm5hNXd0ZXR0ZHV3c3RoYzFkYXB0N21mbmlwZGV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.webp" width="150"/>
+<!--   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNjcmRzaTl6cGJzczdlNmJjdWZud2cwMzJtYndkbWZ1aDMyNGtubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="250"/> -->
 
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
@@ -10,7 +10,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNjcmRzaTl6cGJzczdlNmJjdWZud2cwMzJtYndkbWZ1aDMyNGtubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="300"/>
 </div>
 
 ---
