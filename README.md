@@ -23,7 +23,7 @@ I'm Jayesh Jaiswal, a passionate Full Stack Developer and Game Developer 🚀 fr
 - 🛠️ Building apps with the MERN stack, Firebase, and Tailwind CSS  
 - 🎮 Creating immersive games using Three.js, Unreal Engine, and Unity 3D  
 - 🧠 Exploring AI/ML & real-time data visualizations  
-- 📬 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-JayeshJaiswal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-jaiswal-iitr/)
+- 📬 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-JayeshJaiswal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-jaiswal-920972201//)
 
 ---
 
