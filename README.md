@@ -20,7 +20,6 @@
 
 I'm Jayesh Jaiswal, a passionate Full Stack Developer and Game Developer 🚀 from India.
 
-- 🎓 Final year at IIT Roorkee  
 - 🛠️ Building apps with the MERN stack, Firebase, and Tailwind CSS  
 - 🎮 Creating immersive games using Three.js, Unreal Engine, and Unity 3D  
 - 🧠 Exploring AI/ML & real-time data visualizations  
