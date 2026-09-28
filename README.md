@@ -18,18 +18,18 @@
 
 ### :man_technologist: About Me :
 
-I'm Jayesh Jaiswal, a Unity Game Developer and Full Stack Developer 🚀 from India.
+I'm Jayesh Jaiswal, a Unity Game Developer with little experience in Full Stack Development from India 🚀.
 
-- 🎮 Creating immersive games using Unity 3D, Three.js, and Unreal Engine
+- 🎮 Creating immersive games and application using Unity Game Engine .
 - 🧠 Building AI-integrated games: LLM-driven characters, real-time voice (TTS/STT), enemy AI, and event-driven architecture
-- 🛠️ Building web apps with the MERN stack, Firebase, and Tailwind CSS
+- 🛠️ Build web apps with the MERN stack, Firebase, and Tailwind CSS
 - 📊 Exploring AI/ML & real-time data visualizations
 - 🕹️ Play my games on [![itch.io Badge](https://img.shields.io/badge/-itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://jjvinco.itch.io)
 - 📬 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-JayeshJaiswal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-jaiswal-920972201/)
 
 ---
 
-### :video_game: Featured Games :
+### :video_game: Featured Projects :
 
 - **Buddy**: AI companion with a 3D avatar, real-time voice chat, and lip-sync (Unity + Node.js)
 - **Pursuit**: 2.5D rocket chase with an AI missile pursuer and LLM-generated commentary
@@ -43,7 +43,7 @@ All playable on [itch.io](https://jjvinco.itch.io).
 
 **🎮 Game Dev**
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" title="Unity 3D" alt="Unity 3D" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/Unity.png" title="Unity 3D" alt="Unity 3D" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Unreal_Engine_Logo.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp; -->
