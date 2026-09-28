@@ -43,7 +43,7 @@ All playable on [itch.io](https://jjvinco.itch.io).
 
 **🎮 Game Dev**
 <div>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/Unity.png" title="Unity 3D" alt="Unity 3D" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" title="Unity 3D" alt="Unity 3D" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Unreal_Engine_Logo.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp; -->
