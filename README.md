@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-I'm Jayesh Jaiswal, a Unity Game Developer with little experience in Full Stack Development from India 🚀.
+I'm Jayesh Jaiswal, a Unity Game Developer with some experience in Full Stack Development from India 🚀.
 
 - 🎮 Creating immersive games and application using Unity Game Engine .
 - 🧠 Building AI-integrated games: LLM-driven characters, real-time voice (TTS/STT), enemy AI, and event-driven architecture
